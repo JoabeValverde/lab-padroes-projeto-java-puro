@@ -1,6 +1,6 @@
 
 
-# Explorando Padrões de Projetos na Prática com Java## 
+# Explorando Padrões de Projetos na Prática com Java
 
 ### <span style="color: #007acc;">UML DO PROJETO</span>
 ![img_1.png](src/imgs/UML%20lab%20Padrao%20do%20Projeto.jpg)
@@ -43,4 +43,4 @@ O padrão Facade é utilizado na classe `Facade`, que fornece uma interface simp
 
 Para executar o projeto, basta executar o método `main` na classe `Test`. Ele irá imprimir no console a utilização dos padrões de projeto Singleton, Strategy e Facade com os exemplos apresentados.
 
-<img src="https://user-images.githubusercontent.com/your_image2.png" alt="Execução do Projeto" width="600"/>
+
